@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+venv/
+.env
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project
+reports/
+allure-results/
+allure-report/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
