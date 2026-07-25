@@ -108,6 +108,3 @@ allure open allure-report
 6. 生成 Allure 报告
 7. 上传报告为 Artifact
 
-## 📄 License
-
-MIT
